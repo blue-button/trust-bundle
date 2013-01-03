@@ -266,6 +266,9 @@
 	.half-bottom { margin-bottom: 10px !important; }
 	.add-bottom { margin-bottom: 20px !important; }
 
+#frame{
+	margin-top: 40px;
+}
 
 .blue-box{
 	width: 90px;
@@ -357,4 +360,14 @@
 	color: #fff;
 	font-weight: bold;
 	font-size: 16px;
+}
+
+.banner {
+	background-color: #ffe5bb;
+	text-align: center;
+}
+
+.banner h4{
+	font-size: 13px;
+	color: #4a4a4a;
 }
